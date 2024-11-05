@@ -1,0 +1,7 @@
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\bin\Debug\C#Assignment.exe.config
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\bin\Debug\C#Assignment.exe
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\bin\Debug\C#Assignment.pdb
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\obj\Debug\C#Assignment.csproj.AssemblyReference.cache
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\obj\Debug\C#Assignment.csproj.CoreCompileInputs.cache
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\obj\Debug\C#Assignment.exe
+C:\Users\rikki\OneDrive\Desktop\Basic_C#_Programs\C#Assignment\C#Assignment\obj\Debug\C#Assignment.pdb
