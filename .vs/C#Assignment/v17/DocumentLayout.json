@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rikki\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{405CEDEE-007F-478D-80A7-A3616E7EDC3A}|Solution Items{405CEDEE-007F-478D-80A7-A3616E7EDC3A}|C:\\Users\\rikki\\Source\\Repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\BranchAssignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405CEDEE-007F-478D-80A7-A3616E7EDC3A}|Solution Items{405CEDEE-007F-478D-80A7-A3616E7EDC3A}|solutionrelative:BranchAssignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BranchAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\rikki\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\BranchAssignment.cs",
+              "RelativeDocumentMoniker": "BranchAssignment.cs",
+              "ToolTip": "C:\\Users\\rikki\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\BranchAssignment.cs",
+              "RelativeToolTip": "BranchAssignment.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:53:53.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
