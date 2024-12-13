@@ -1,0 +1,15 @@
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\bin\Debug\net8.0\Operator.exe
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\bin\Debug\net8.0\Operator.deps.json
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\bin\Debug\net8.0\Operator.runtimeconfig.json
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\bin\Debug\net8.0\Operator.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\bin\Debug\net8.0\Operator.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.AssemblyInfoInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.AssemblyInfo.cs
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.sourcelink.json
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\refint\Operator.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\Operator.genruntimeconfig.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Operator\Operator\obj\Debug\net8.0\ref\Operator.dll
