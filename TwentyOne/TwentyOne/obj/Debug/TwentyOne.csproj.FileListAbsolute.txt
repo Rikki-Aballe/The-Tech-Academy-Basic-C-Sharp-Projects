@@ -1,0 +1,10 @@
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.Up2Date
