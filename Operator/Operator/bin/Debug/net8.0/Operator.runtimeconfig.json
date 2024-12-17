@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "net8.0",
@@ -9,4 +10,17 @@
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
     }
   }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "8.0.0"
+    },
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+>>>>>>> 2af4e0c6c25aa6c8e733a30a2d82f897e3ed98f5
 }

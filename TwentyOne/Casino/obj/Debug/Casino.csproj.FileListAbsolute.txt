@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\Casino.dll
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
+=======
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
+>>>>>>> 2af4e0c6c25aa6c8e733a30a2d82f897e3ed98f5

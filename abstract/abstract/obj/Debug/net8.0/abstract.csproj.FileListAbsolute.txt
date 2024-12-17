@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.exe
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.deps.json
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abs
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.pdb
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.genruntimeconfig.cache
 C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\ref\abstract.dll
+=======
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.exe
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.deps.json
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.runtimeconfig.json
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\bin\Debug\net8.0\abstract.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.AssemblyInfoInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.AssemblyInfo.cs
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.csproj.CoreCompileInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.sourcelink.json
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\refint\abstract.dll
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\abstract.genruntimeconfig.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\abstract\abstract\obj\Debug\net8.0\ref\abstract.dll
+>>>>>>> 2af4e0c6c25aa6c8e733a30a2d82f897e3ed98f5

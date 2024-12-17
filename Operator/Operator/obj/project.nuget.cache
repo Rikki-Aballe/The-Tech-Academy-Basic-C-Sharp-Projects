@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "74eQWRhv6Ms=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\rikki\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Operator\\Operator\\Operator.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "74eQWRhv6Ms=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rikki\\source\\repos\\The-Tech-Academy-Basic-C-Sharp-Projects\\Operator\\Operator\\Operator.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2af4e0c6c25aa6c8e733a30a2d82f897e3ed98f5
 }
