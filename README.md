@@ -16,5 +16,5 @@ The CarInsurance project is an ASP.NET MVC web application designed to calculate
 This C# program demonstrates basic operations with a `List<string>` and arrays. It shows how to add and remove items from a list, access elements by index, and print results to the console. The code also includes commented-out sections that illustrate how to initialize and modify arrays. The program prints `"Hello"` to the console after removing an item from the list. This example serves as a basic introduction to working with lists and arrays in C#.
 
 
-# Iteratioin
+# Iteration
 This C# program goes through a list of test scores, checks if each score is greater than 85, and counts how many scores pass. It adds passing scores to a new list and then displays the total number of passing scores. This example demonstrates basic use of lists, loops, and conditionals in C#.
