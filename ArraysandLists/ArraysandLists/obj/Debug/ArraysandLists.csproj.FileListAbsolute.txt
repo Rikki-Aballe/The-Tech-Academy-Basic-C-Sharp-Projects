@@ -1,0 +1,7 @@
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe.config
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.exe
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\bin\Debug\ArraysandLists.pdb
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.AssemblyReference.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.exe
+C:\Users\rikki\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysandLists\ArraysandLists\obj\Debug\ArraysandLists.pdb
