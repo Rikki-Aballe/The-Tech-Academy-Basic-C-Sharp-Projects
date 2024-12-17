@@ -14,6 +14,13 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
+        public ActionResult Admin()
+        {
+            var insurees = db.Insurees.ToList();
+            return View(insurees);
+        }
+
+
         // GET: Insuree
         public ActionResult Index()
         {
@@ -56,6 +63,50 @@ namespace CarInsurance.Controllers
             }
 
             return View(insuree);
+        }
+
+        private decimal CalculateQuote(Insuree insuree)
+        {
+            decimal baseRate = 50;
+
+            // Calculate age
+            int age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+            if (insuree.DateOfBirth > DateTime.Now.AddYears(-age)) age--; // Adjust for birthdate
+
+            // Age-based rate adjustments
+            if (age <= 18)
+                baseRate += 100;
+            else if (age >= 19 && age <= 25)
+                baseRate += 50;
+            else
+                baseRate += 25;
+
+            // Car year adjustments
+            if (insuree.CarYear < 2000)
+                baseRate += 25;
+            if (insuree.CarYear > 2015)
+                baseRate += 25;
+
+            // Car make and model adjustments
+            if (insuree.CarMake.ToLower() == "porsche")
+            {
+                baseRate += 25;
+                if (insuree.CarModel.ToLower() == "911 carrera")
+                    baseRate += 25;
+            }
+
+            // Speeding tickets adjustment
+            baseRate += insuree.SpeedingTickets * 10;
+
+            // DUI adjustment
+            if (insuree.DUI)
+                baseRate *= 1.25m;
+
+            // Coverage type adjustment
+            if (insuree.CoverageType)
+                baseRate *= 1.50m;
+
+            return baseRate;
         }
 
         // GET: Insuree/Edit/5
